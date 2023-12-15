@@ -1,0 +1,14 @@
+C:\Users\vadim\OneDrive\Desktop\Stoyko Cs\Cs\bimbam\lab5\bin\Debug\net6.0\lab5.exe
+C:\Users\vadim\OneDrive\Desktop\Stoyko Cs\Cs\bimbam\lab5\bin\Debug\net6.0\lab5.deps.json
+C:\Users\vadim\OneDrive\Desktop\Stoyko Cs\Cs\bimbam\lab5\bin\Debug\net6.0\lab5.runtimeconfig.json
+C:\Users\vadim\OneDrive\Desktop\Stoyko Cs\Cs\bimbam\lab5\bin\Debug\net6.0\lab5.dll
+C:\Users\vadim\OneDrive\Desktop\Stoyko Cs\Cs\bimbam\lab5\bin\Debug\net6.0\lab5.pdb
+C:\Users\vadim\OneDrive\Desktop\Stoyko Cs\Cs\bimbam\lab5\obj\Debug\net6.0\lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\OneDrive\Desktop\Stoyko Cs\Cs\bimbam\lab5\obj\Debug\net6.0\lab5.AssemblyInfoInputs.cache
+C:\Users\vadim\OneDrive\Desktop\Stoyko Cs\Cs\bimbam\lab5\obj\Debug\net6.0\lab5.AssemblyInfo.cs
+C:\Users\vadim\OneDrive\Desktop\Stoyko Cs\Cs\bimbam\lab5\obj\Debug\net6.0\lab5.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Desktop\Stoyko Cs\Cs\bimbam\lab5\obj\Debug\net6.0\lab5.dll
+C:\Users\vadim\OneDrive\Desktop\Stoyko Cs\Cs\bimbam\lab5\obj\Debug\net6.0\refint\lab5.dll
+C:\Users\vadim\OneDrive\Desktop\Stoyko Cs\Cs\bimbam\lab5\obj\Debug\net6.0\lab5.pdb
+C:\Users\vadim\OneDrive\Desktop\Stoyko Cs\Cs\bimbam\lab5\obj\Debug\net6.0\lab5.genruntimeconfig.cache
+C:\Users\vadim\OneDrive\Desktop\Stoyko Cs\Cs\bimbam\lab5\obj\Debug\net6.0\ref\lab5.dll

@@ -1,0 +1,17 @@
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\bin\Debug\net6.0-windows\lab7.exe
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\bin\Debug\net6.0-windows\lab7.deps.json
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\bin\Debug\net6.0-windows\lab7.runtimeconfig.json
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\bin\Debug\net6.0-windows\lab7.dll
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\bin\Debug\net6.0-windows\lab7.pdb
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\obj\Debug\net6.0-windows\lab7.csproj.GenerateResource.cache
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\obj\Debug\net6.0-windows\lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\obj\Debug\net6.0-windows\lab7.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\obj\Debug\net6.0-windows\lab7.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\obj\Debug\net6.0-windows\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\obj\Debug\net6.0-windows\lab7.sourcelink.json
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\obj\Debug\net6.0-windows\lab7.dll
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\obj\Debug\net6.0-windows\refint\lab7.dll
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\obj\Debug\net6.0-windows\lab7.pdb
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\obj\Debug\net6.0-windows\lab7.genruntimeconfig.cache
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\obj\Debug\net6.0-windows\ref\lab7.dll
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab7\obj\Debug\net6.0-windows\lab7.fMain.resources

@@ -1,0 +1,11 @@
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab10\bin\Debug\lab10.exe.config
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab10\bin\Debug\lab10.exe
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab10\bin\Debug\lab10.pdb
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab10\obj\Debug\lab10.fMain.resources
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab10\obj\Debug\lab10.Properties.Resources.resources
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab10\obj\Debug\lab10.csproj.GenerateResource.cache
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab10\obj\Debug\lab10.exe
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab10\obj\Debug\lab10.pdb
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab10\obj\Debug\lab10.fTown.resources

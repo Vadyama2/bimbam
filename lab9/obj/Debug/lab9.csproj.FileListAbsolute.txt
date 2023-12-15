@@ -1,0 +1,11 @@
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab9\bin\Debug\lab9.exe.config
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab9\bin\Debug\lab9.exe
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab9\bin\Debug\lab9.pdb
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab9\obj\Debug\lab9.Properties.Resources.resources
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab9\obj\Debug\lab9.csproj.GenerateResource.cache
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab9\obj\Debug\lab9.exe
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab9\obj\Debug\lab9.pdb
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab9\obj\Debug\lab9.fMain.resources
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab9\obj\Debug\lb9.fMain.resources

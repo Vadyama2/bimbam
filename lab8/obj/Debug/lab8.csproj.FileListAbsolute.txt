@@ -1,0 +1,11 @@
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab8\bin\Debug\lab8.exe.config
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab8\bin\Debug\lab8.exe
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab8\bin\Debug\lab8.pdb
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab8\obj\Debug\lab8.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab8\obj\Debug\lab8.Properties.Resources.resources
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab8\obj\Debug\lab8.csproj.GenerateResource.cache
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab8\obj\Debug\lab8.exe
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab8\obj\Debug\lab8.pdb
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab8\obj\Debug\lab8.fMain.resources
+C:\Users\Вадим\Desktop\stoyko-cs\Cs\bimbam\lab8\obj\Debug\lab8.fTown.resources
